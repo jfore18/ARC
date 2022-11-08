@@ -1,0 +1,20 @@
+Line 35: Class MSDataGridLib.DataGrid of control grll_bitacora was not a loaded control class.
+Line 159: Class MSMask.MaskEdBox of control mskFecha was not a loaded control class.
+Line 41: The property name _ExtentX in grll_bitacora is invalid.
+Line 42: The property name _ExtentY in grll_bitacora is invalid.
+Line 43: The property name _Version in grll_bitacora is invalid.
+Line 44: The property name HeadLines in grll_bitacora is invalid.
+Line 45: The property name RowHeight in grll_bitacora is invalid.
+Line 54: The property name HeadFont in grll_bitacora is invalid.
+Line 64: The property name ColumnCount in grll_bitacora is invalid.
+Line 77: The property name Column00 in grll_bitacora is invalid.
+Line 90: The property name Column01 in grll_bitacora is invalid.
+Line 91: The property name SplitCount in grll_bitacora is invalid.
+Line 97: The property name Split0 in grll_bitacora is invalid.
+Line 165: The property name _ExtentX in mskFecha is invalid.
+Line 166: The property name _ExtentY in mskFecha is invalid.
+Line 167: The property name _Version in mskFecha is invalid.
+Line 168: The property name MaxLength in mskFecha is invalid.
+Line 169: The property name Format in mskFecha is invalid.
+Line 170: The property name Mask in mskFecha is invalid.
+Line 171: The property name PromptChar in mskFecha is invalid.

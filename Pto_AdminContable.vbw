@@ -1,0 +1,13 @@
+frm_Consulta_general_ARC = 86, 118, 866, 543, C, 43, -15, 887, 326, C
+frmConsultaCarga = 0, 0, 919, 288, C, 100, 100, 944, 441, C
+frmConsultaResponsabilidades = 0, 0, 917, 288, C, -73, 129, 771, 470, C
+frm_AccesoARC = 50, 50, 894, 391, Z, 25, 25, 869, 366, C
+combosListasARC = 50, 50, 969, 359, 
+funcionesARC = 0, 45, 916, 333, 
+menusARC = -81, 156, 836, 444, 
+sistemaARC = 25, 25, 944, 313, C
+variablesARC = -12, 145, 905, 433, 
+MDI_Administrador_contable = 4, 83, 921, 371, , -46, 82, 798, 423, C
+SSPLogon = 1, 112, 918, 400, 
+FuncionesLocale = 25, 25, 789, 450, 
+frmConsultaBitacora = 0, 0, 560, 425, C, 125, 125, 685, 550, C

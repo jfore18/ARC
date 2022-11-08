@@ -1,0 +1,35 @@
+Line 24: Class TabDlg.SSTab of control SSTab2 was not a loaded control class.
+Line 59: Class MSMask.MaskEdBox of control mskTransacciones was not a loaded control class.
+Line 70: Class MSComctlLib.TreeView of control arbolTransaccion was not a loaded control class.
+Line 82: Class MSComctlLib.TreeView of control arbolMovimiento was not a loaded control class.
+Line 30: The property name _ExtentX in SSTab2 is invalid.
+Line 31: The property name _ExtentY in SSTab2 is invalid.
+Line 32: The property name _Version in SSTab2 is invalid.
+Line 33: The property name Tabs in SSTab2 is invalid.
+Line 34: The property name TabsPerRow in SSTab2 is invalid.
+Line 35: The property name TabHeight in SSTab2 is invalid.
+Line 46: The property name TabCaption(0) in SSTab2 is invalid.
+Line 47: The property name TabPicture(0) in SSTab2 is invalid.
+Line 48: The property name Tab(0).ControlEnabled in SSTab2 is invalid.
+Line 49: The property name Tab(0).Control(0) in SSTab2 is invalid.
+Line 50: The property name Tab(0).Control(0).Enabled in SSTab2 is invalid.
+Line 51: The property name Tab(0).ControlCount in SSTab2 is invalid.
+Line 52: The property name TabCaption(1) in SSTab2 is invalid.
+Line 53: The property name TabPicture(1) in SSTab2 is invalid.
+Line 54: The property name Tab(1).ControlEnabled in SSTab2 is invalid.
+Line 55: The property name Tab(1).Control(0) in SSTab2 is invalid.
+Line 56: The property name Tab(1).Control(1) in SSTab2 is invalid.
+Line 57: The property name Tab(1).Control(2) in SSTab2 is invalid.
+Line 58: The property name Tab(1).ControlCount in SSTab2 is invalid.
+Line 65: The property name _ExtentX in mskTransacciones is invalid.
+Line 66: The property name _ExtentY in mskTransacciones is invalid.
+Line 67: The property name _Version in mskTransacciones is invalid.
+Line 68: The property name PromptChar in mskTransacciones is invalid.
+Line 76: The property name _ExtentX in arbolTransaccion is invalid.
+Line 77: The property name _ExtentY in arbolTransaccion is invalid.
+Line 78: The property name _Version in arbolTransaccion is invalid.
+Line 79: The property name Style in arbolTransaccion is invalid.
+Line 88: The property name _ExtentX in arbolMovimiento is invalid.
+Line 89: The property name _ExtentY in arbolMovimiento is invalid.
+Line 90: The property name _Version in arbolMovimiento is invalid.
+Line 91: The property name Style in arbolMovimiento is invalid.
