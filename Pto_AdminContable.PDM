@@ -1,0 +1,212 @@
+[Root]
+Most Recent Package=arc_setup
+
+[Package|arc|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\SVNAPPS\Instaladores\Instalador_ARC
+
+[Package|arc|Configure DAO ISAMs]
+Applicable=No
+
+[Package|arc|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|arc|Files Found]
+
+[Package|arc|Files Released]
+security=
+
+[Package|arc|Missing Dependency Information]
+C:\oracle\product\11.2.0\client_1\BIN\OraOLEDB11.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+
+[Package|arc|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\msdatgrd.ocx=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|arc|Files Added]
+
+[Package|arc|Files Removed]
+
+[Package|arc|Files In Project]
+C:\Documents and Settings\abocane\Escritorio\Administradorderelacionescontables.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\oracle\product\11.2.0\client_1\BIN\OraOLEDB11.dll=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\msdatgrd.ocx=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\Crystl32.OCX=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|arc|Configure Registry Files]
+Applicable=No
+
+[Package|arc|Configure Remote Servers]
+Applicable=No
+
+[Package|arc|Install Locations]
+C:\Documents and Settings\abocane\Escritorio\Administradorderelacionescontables.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\oracle\product\11.2.0\client_1\BIN\OraOLEDB11.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msdatgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|arc|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\abocane\Escritorio\Administradorderelacionescontables.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|arc|Distribution]
+Type=single
+Size=
+Title=Pto_AdminContable
+
+[Package|arc|IconGroups]
+Group0=Pto_AdminContable
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|arc|Pto_AdminContable]
+Icon1=Administradorderelacionescontables.exe
+Title1=Pto_AdminContable
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|arc_setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\SVNAPPS\Instaladores\Instalador_ARC
+
+[Package|arc_setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|arc_setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|arc_setup|Files Found]
+
+[Package|arc_setup|Files Released]
+security=
+
+[Package|arc_setup|Missing Dependency Information]
+C:\oracle\product\11.2.0\client_1\BIN\OraOLEDB11.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+
+[Package|arc_setup|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\msdatgrd.ocx=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|arc_setup|Files Added]
+
+[Package|arc_setup|Files Removed]
+c:\oracle\product\11.2.0\client_1\bin\oraoledb11.dll=
+
+[Package|arc_setup|Files In Project]
+C:\Documents and Settings\abocane\Escritorio\Administradorderelacionescontables.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\oracle\product\11.2.0\client_1\BIN\OraOLEDB11.dll=No
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\msdatgrd.ocx=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\Crystl32.OCX=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|arc_setup|Configure Registry Files]
+Applicable=No
+
+[Package|arc_setup|Configure Remote Servers]
+Applicable=No
+
+[Package|arc_setup|Install Locations]
+C:\Documents and Settings\abocane\Escritorio\Administradorderelacionescontables.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msdatgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|arc_setup|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\abocane\Escritorio\Administradorderelacionescontables.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|arc_setup|Distribution]
+Type=single
+Size=
+Title=Pto_AdminContable
+
+[Package|arc_setup|IconGroups]
+Group0=Pto_AdminContable
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|arc_setup|Pto_AdminContable]
+Icon1=Administradorderelacionescontables.exe
+Title1=Pto_AdminContable
+StartIn1=$(AppPath)
+Key1=Icon1

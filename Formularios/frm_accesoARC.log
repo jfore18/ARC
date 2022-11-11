@@ -1,0 +1,12 @@
+Line 56: Class MSMask.MaskEdBox of control txt_usuario_arc was not a loaded control class.
+Line 183: Class MSMask.MaskEdBox of control txt_usuario was not a loaded control class.
+Line 62: The property name _ExtentX in txt_usuario_arc is invalid.
+Line 63: The property name _ExtentY in txt_usuario_arc is invalid.
+Line 64: The property name _Version in txt_usuario_arc is invalid.
+Line 65: The property name MaxLength in txt_usuario_arc is invalid.
+Line 66: The property name Mask in txt_usuario_arc is invalid.
+Line 67: The property name PromptChar in txt_usuario_arc is invalid.
+Line 189: The property name _ExtentX in txt_usuario is invalid.
+Line 190: The property name _ExtentY in txt_usuario is invalid.
+Line 191: The property name _Version in txt_usuario is invalid.
+Line 201: The property name PromptChar in txt_usuario is invalid.
